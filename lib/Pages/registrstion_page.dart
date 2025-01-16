@@ -214,7 +214,7 @@ class _RegistrstionPageState extends State<RegistrstionPage> {
                           ),
                           children: [
                             TextSpan(
-                              text: isRegisterMode?'Sign in':'Register',
+                              text: isRegisterMode?'Sign in':'Register ',
                               style: TextStyle(
                                 color: primary,
                                 fontWeight: FontWeight.bold
